@@ -4,6 +4,7 @@
 
 ## Frontend
 - React (Tats)
+- React (Majobe)
 
 ## Backend
 - Express (Tats)
