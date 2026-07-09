@@ -15,6 +15,10 @@
 - SpringBoot (Tshego)
 - MVC (Tshego)
 - React (Tats)
+- React (Brent)
+## Backend
+- Express (Tats)
+- Flask(Python) (Brent)
 - React(ThutoMalope)
 
 ## Backend
@@ -24,10 +28,18 @@
 ## Devops
 
 - Docker (Tats)
+- N\A (Brent)
+
 
 ## CI/CD
 
 - GitHub Actions (Tats)
+- Github (Brent)
+
+## LLMs
+- Claude (Tats)
+- Claude, GLM,  (Brent)
+- Gemini (Tats)
 - GitHub Actions (ThutoMalope)
 
 ## LLMs
