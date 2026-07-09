@@ -1,4 +1,4 @@
-# software-development-tools-and-resources-v1
+# software-development-tools-and-resources-v1 i am sechaba
 - Add your branch checked out from main (git checkout -b yourname)
 - My branch is MajobeKao, hello world!
 
@@ -40,6 +40,7 @@
 ## CI/CD
 
 - GitHub Actions (Tats)
+- Jenkins (Itu)
 - Github Actions (Modise)
 
 
@@ -50,5 +51,6 @@
 - Claude (Modise)
 - Claude (Tats)
 - Gemini (Tats)
+- ChatGPT (Itu)
 - Claude (ThutoMalope)
 - Copilot (Relebohile Matsoso)
