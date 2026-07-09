@@ -15,7 +15,9 @@
 
 ## CI/CD
 - GitHub Actions (Tats)
+- Jenkins (Itu)
 
 ## LLMs
 - Claude (Tats)
 - Gemini (Tats)
+- ChatGPT (Itu)
