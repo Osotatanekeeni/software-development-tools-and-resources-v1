@@ -32,17 +32,6 @@ Open http://localhost:3000 — you should see the ACA Team Hub. Keep it running;
 | Add a coding fun fact | `lib/facts.js` | `feature-add-<yourname>-fact` |
 | Add `getEmoji(hour)` next to greeting | `lib/greetings.js` + `app/page.js` | `feature-add-greeting-emoji` |
 
-## 🐛 Bug tasks (planted on purpose — find & fix)
-
-| Bug | File | Branch name |
-|-----|------|-------------|
-| Says "Good morning" in the afternoon | `lib/greetings.js` | `bug-fix-afternoon-greeting` |
-| Team counter shows one less member | `lib/stats.js` | `bug-fix-team-counter` |
-
-## 🚨 Hotfix task (instructor demo or volunteer)
-
-A broken sale banner made it to "production". Branch `hotfix-remove-broken-banner` off `master`, remove the banner in `app/page.js`, PR into `master`, then merge master back into develop.
-
 ## 💬 Commit message examples
 
 ```
