@@ -9,12 +9,14 @@
 
 ## Frontend
 
+- React (Tats)
 - React (Tshego)
 - Angular (Tshego)
 
 ## Backend
 
 - Express (Tats)
+- Typescript(Mosito)
 - SpringBoot (Tshego)
 - MVC (Tshego)
 - Flask(Python) (Brent)
@@ -36,6 +38,8 @@
 
 ## LLMs
 
+- Claude (Tats)
+- Chartgpt(Mosito)
 - Claude, GLM (Brent)
 - Ollama (Tshego)
 - Gemini (Tshego)
