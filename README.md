@@ -32,6 +32,7 @@
 ## CI/CD
 
 - GitHub Actions (Tats)
+- Jenkins (Itu)
 - Github Actions (Modise)
 
 
@@ -42,4 +43,6 @@
 - Claude (Modise)
 - Claude (Tats)
 - Gemini (Tats)
+- ChatGPT (Itu)
 - Claude (ThutoMalope)
+
