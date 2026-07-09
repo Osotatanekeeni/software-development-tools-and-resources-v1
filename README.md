@@ -1,4 +1,6 @@
 # software-development-tools-and-resources-v1
+- Add your branch checked out from main (git checkout -b yourname)
+- My branch is MajobeKao, hello world!
 
 - Add your branch checked out from main (git checkout -b yourname)
 - Add a tool under any category
@@ -22,21 +24,30 @@
 ## Backend
 
 - Express (Tats)
-- Node.js (ThutoMalope)
+- SpringBoot (Tshego)
+- MVC (Tshego)
+- Flask(Python) (Brent)
+- Node.js (Modise)
+ - Node.js (ThutoMalope)
 
 ## Devops
 
 - Docker (Tats)
+- Docker (Modise)
+- N\A (Brent)
+
 
 ## CI/CD
 
 - GitHub Actions (Tats)
-- GitHub Actions (ThutoMalope)
+- Github Actions (Modise)
+
 
 ## LLMs
-
+- Claude, GLM,  (Brent)
 - Ollama (Tshego)
-  -Gemini (Tshego)
+-Gemini (Tshego)
+- Claude (Modise)
 - Claude (Tats)
 - Gemini (Tats)
 - Claude (ThutoMalope)
